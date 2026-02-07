@@ -1,9 +1,9 @@
 DOMAIN-SUFFIX,dns.google
 DOMAIN-SUFFIX,google.cn
 DOMAIN-SUFFIX,googleapis.cn
-DOMAIN-SUFFIX,android.googleapis.com
-DOMAIN-SUFFIX,services.googleapis.com
-DOMAIN-SUFFIX,play-lh.googleusercontent.com
+DOMAIN-SUFFIX,googleapis.com
+DOMAIN-SUFFIX,googleusercontent.com
+
 
 
 
