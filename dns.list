@@ -56,7 +56,7 @@ IP-CIDR,1.2.4.8/32,no-resolve
 IP-CIDR,1.1.1.1/32,no-resolve
 IP-CIDR,1.0.0.1/32,no-resolve
 
-#DOMAIN-SUFFIX,dns.google
+DOMAIN-SUFFIX,dns.google
 DOMAIN-SUFFIX,google-public-dns-a.google.com
 DOMAIN-SUFFIX,google-public-dns-b.google.com
 DOMAIN-SUFFIX,cloudflare-dns.com
