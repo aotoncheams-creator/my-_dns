@@ -1,9 +1,10 @@
-DOMAIN-SUFFIX,dns.google
+#DOMAIN-SUFFIX,dns.google
 DOMAIN-SUFFIX,google.cn
 DOMAIN-SUFFIX,googleapis.cn
 DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,googleusercontent.com
 DOMAIN-SUFFIX,ipify.org
+
 
 
 
