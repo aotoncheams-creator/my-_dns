@@ -4,6 +4,8 @@ DOMAIN-SUFFIX,googleapis.cn
 DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,googleusercontent.com
 DOMAIN-SUFFIX,ipify.org
+IP-CIDR,202.79.166.27/32
+
 
 
 
