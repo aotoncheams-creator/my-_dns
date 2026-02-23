@@ -1,4 +1,4 @@
-#DOMAIN-SUFFIX,dns.google
+DOMAIN-SUFFIX,dns.google
 DOMAIN-SUFFIX,google.cn
 DOMAIN-SUFFIX,googleapis.cn
 DOMAIN-SUFFIX,googleapis.com
@@ -6,6 +6,7 @@ DOMAIN-SUFFIX,googleusercontent.com
 DOMAIN-SUFFIX,ipify.org
 #mitce机场健康检查地址：
 IP-CIDR,202.79.166.27/32
+
 
 
 
