@@ -1,5 +1,7 @@
 
 #DOMAIN-SUFFIX,dns.google
+#防止WebRTC泄露：
 DOMAIN-SUFFIX,stun.l.google.com
+
 
 
