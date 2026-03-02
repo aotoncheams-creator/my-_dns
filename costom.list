@@ -1,8 +1,9 @@
 
 DOMAIN-SUFFIX,browserleaks.com
-IP-CIDR,8.8.8.8/32
+IP-CIDR,8.8.8.8/32,no-resolve
 #mitce机场健康检查地址：
 #IP-CIDR,202.79.166.27/32
+
 
 
 
