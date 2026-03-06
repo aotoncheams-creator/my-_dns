@@ -1,8 +1,11 @@
 #DOMAIN-SUFFIX,browserleaks.com
 DOMAIN-SUFFIX,dns.google
 IP-CIDR,8.8.8.8/32,no-resolve
+IP-CIDR,202.38.64.1/32,no-resolve
+IP-CIDR,202.196.64.1/32,no-resolve
 #mitce机场健康检查地址：
 #IP-CIDR,202.79.166.27/32
+
 
 
 
