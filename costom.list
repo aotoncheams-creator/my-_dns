@@ -5,25 +5,14 @@ IP-CIDR,8.8.4.4/32,no-resolve
 IP-CIDR,1.1.1.1/32,no-resolve
 IP-CIDR,1.0.0.1/32,no-resolve
 IP-CIDR,9.9.9.9/32,no-resolve
-#国内dns:
-IP-CIDR,114.114.114.114/32,no-resolve
-IP-CIDR,223.5.5.5/32,no-resolve
-IP-CIDR,223.6.6.6/32,no-resolve
-IP-CIDR,119.29.29.29/32,no-resolve
-#DOMAIN-SUFFIX,dns.alidns.com
-#DOMAIN-SUFFIX,dns.pub #国内直连域名
 
-#教育网dns:
-IP-CIDR,202.38.64.1/32,no-resolve
-IP-CIDR,202.196.64.1/32,no-resolve
-IP-CIDR,202.114.0.242/32,no-resolve
-IP-CIDR,202.113.16.10/32,no-resolve
 #国内公共dns：
-IP-CIDR,223.5.5.5/32,no-resolve
-IP-CIDR,119.29.29.29/32,no-resolve
+#IP-CIDR,223.5.5.5/32,no-resolve
+#IP-CIDR,119.29.29.29/32,no-resolve
 
 #mitce机场健康检查地址：
 #IP-CIDR,202.79.166.27/32
+
 
 
 
