@@ -6,8 +6,6 @@ DOMAIN-SUFFIX,stun2.l.google.com
 DOMAIN-SUFFIX,stun3.l.google.com
 DOMAIN-SUFFIX,stun4.l.google.com
 
-#直连延迟测试网站：
-DOMAIN-SUFFIX,gstatic.com
 
 #微软相关域名：
 DOMAIN-SUFFIX,bing.com
@@ -32,6 +30,7 @@ IP-CIDR6,::/127
 IP-CIDR6,fc00::/7
 IP-CIDR6,fe80::/10
 IP-CIDR6,ff00::/8
+
 
 
 
