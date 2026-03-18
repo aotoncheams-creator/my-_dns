@@ -10,6 +10,7 @@ DOMAIN-SUFFIX,stun4.l.google.com
 #微软相关域名：
 DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,live.com
+DOMAIN-KEYWORD,microsoft
 
 #私网地址：
 IP-CIDR,0.0.0.0/8
