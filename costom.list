@@ -13,6 +13,9 @@ IP-CIDR,9.9.9.9/32,no-resolve
 #mitce机场健康检查地址：
 #IP-CIDR,202.79.166.27/32
 
+#谷歌商店：
+DOMAIN-SUFFIX,googleapis.cn
+
 
 
 
